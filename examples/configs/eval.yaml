@@ -1,0 +1,6 @@
+data:
+  eval: data/eval.jsonl
+
+output:
+  checkpoint_dir: checkpoints/
+  report_path: reports/eval_report.md

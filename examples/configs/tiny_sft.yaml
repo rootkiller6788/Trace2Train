@@ -1,0 +1,18 @@
+data:
+  sft: data/sft.jsonl
+  eval: data/eval.jsonl
+
+model:
+  type: mlp
+  hidden_dim: 256
+  num_layers: 2
+
+train:
+  batch_size: 32
+  epochs: 10
+  learning_rate: 1e-4
+  optimizer: adam
+
+output:
+  checkpoint_dir: checkpoints/
+  report_path: reports/train_report.md

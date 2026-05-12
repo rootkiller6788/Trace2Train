@@ -1,0 +1,10 @@
+{"req_id":"r-001","label":"accept","features":{"requested_tokens":256,"kv_bytes":4194304,"latency_us":1500}}
+{"req_id":"r-002","label":"accept","features":{"requested_tokens":128,"kv_bytes":2097152,"latency_us":800}}
+{"req_id":"r-003","label":"reject","features":{"requested_tokens":512,"kv_bytes":0,"latency_us":0}}
+{"req_id":"r-004","label":"accept","features":{"requested_tokens":64,"kv_bytes":1048576,"latency_us":400}}
+{"req_id":"r-005","label":"accept","features":{"requested_tokens":1024,"kv_bytes":8388608,"latency_us":3200}}
+{"req_id":"r-006","label":"accept","features":{"requested_tokens":32,"kv_bytes":524288,"latency_us":200}}
+{"req_id":"r-007","label":"reject","features":{"requested_tokens":256,"kv_bytes":0,"latency_us":0}}
+{"req_id":"r-008","label":"accept","features":{"requested_tokens":128,"kv_bytes":2097152,"latency_us":900}}
+{"req_id":"r-009","label":"accept","features":{"requested_tokens":512,"kv_bytes":4194304,"latency_us":1800}}
+{"req_id":"r-010","label":"reject","features":{"requested_tokens":64,"kv_bytes":0,"latency_us":0}}
